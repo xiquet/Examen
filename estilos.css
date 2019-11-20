@@ -1,18 +1,30 @@
+header{
+    background-color: yellow;
+}
+.izquierda {
+    float: left;
+}
+.espacio{
+    margin: 30px;
+}
 .amarillo {
     color: yellow;
+    margin: 90px;
 }
 nav{
     background-color: grey;
+    width: 65%;
 }
 aside{
     float: right;
 }
 .morado {
-    color: hotpink;
+    color: rgb(133, 9, 248);
 }
 footer{
     background-color: yellow;
 }
-iframe{
+.centradocyan{
     text-align: center;
+    background-color:cyan;
 }
